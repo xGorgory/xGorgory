@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @xGorgory
+- 👋 Hi, I'm Santiago
 - 👀 I am interested in technology and the development of web pages and applications
 - 🌱 I am currently studying  FullStack development
 - 💞️ I am looking to collaborate on programming projects, I would like to do the front end part
